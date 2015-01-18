@@ -1,2 +1,3 @@
 # Analisis
-Diseño de algoritmos
+Diseno de Algoritmos
+
